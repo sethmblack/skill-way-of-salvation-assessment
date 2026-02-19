@@ -3,8 +3,8 @@ name: way-of-salvation-assessment
 description: Assess spiritual location on the way of salvation and prescribe appropriate next steps based on stage of development.
 license: MIT
 metadata:
+  version: 1.0.5304
   author: sethmblack
-  version: 1.0.5303
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - transformation
